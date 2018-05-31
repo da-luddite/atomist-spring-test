@@ -1,5 +1,5 @@
 # atomist-spring-test
-README
+README AND ME
 my new project
 
 Based on seed project `spring-team:spring-rest-seed`
